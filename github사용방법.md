@@ -88,7 +88,6 @@ Tags : 특정 커밋에 태그
 
 Worktrees : 여러 작업 트리 관리
 
-markdown
-코드 복사
+
 
 
